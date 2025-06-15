@@ -1,0 +1,17 @@
+.Carta{
+    width: 18rem !important;
+    
+    
+}
+.PrinCartas{
+    display: flex;
+    justify-content: space-around;
+}
+img{
+    width: 18rem !important;
+    height: 18rem !important;
+    border-radius: 50%;
+}
+.titCarta{
+    text-align: center;
+}
